@@ -17,6 +17,7 @@ from forms import CreatePostForm, RegisterForm, LoginForm, CommentForm
 '''
 Make sure the required packages are installed: 
 Open the Terminal in PyCharm (bottom left). 
+#Test commit
 
 On Windows type:
 python -m pip install -r requirements.txt
